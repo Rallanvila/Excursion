@@ -6,13 +6,23 @@
     text-align: center;
     font-weight: 400;
 }
-h1 {
-
+a {
+    color: aquamarine;
+}
+.phoneSection{
+    color: grey;
 }
 /* phone image */
 /* tent section */
-.tentSection {
+p {
     padding: 30;
 }
 /* phone image section */
+.phoneimg {
+    padding: 30px;
+    
+}
 /* footer */
+footer {
+    padding: 40px;
+}
