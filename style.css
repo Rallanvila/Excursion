@@ -1,5 +1,18 @@
 /* header */
+* {
+    background-color: black;
+    color: white;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    font-weight: 400;
+}
+h1 {
+
+}
 /* phone image */
 /* tent section */
+.tentSection {
+    padding: 30;
+}
 /* phone image section */
 /* footer */
